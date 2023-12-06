@@ -8,4 +8,9 @@
  - Checked maximum load and stree capacity for a particular site.
 
 ## How to run this project
- - clone project from - 
+ - clone project from -
+   ``` https://github.com/Katha-Sikdar/Random-User-API-Performance-Test/tree/main ```
+
+## Pictorial representation of this projects output:
+
+
