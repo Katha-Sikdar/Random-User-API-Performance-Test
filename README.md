@@ -7,6 +7,9 @@
  - In this project Two tests are being performed such as - Load Test and Stress Test.
  - Checked maximum load and stree capacity for a particular site.
 
+## Output of two tests:
+ - Successfully passed both load and stress tests phase.
+   
 ## How to run this project
  - clone project from -
    ``` https://github.com/Katha-Sikdar/Random-User-API-Performance-Test/tree/main ```
