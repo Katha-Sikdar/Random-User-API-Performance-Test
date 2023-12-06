@@ -5,7 +5,7 @@
 
 ## About This Project
  - In this project Two tests are being performed such as - Load Test and Stress Test.
- - Checked maximum load and stree capacity for a particular site.
+ - Checked maximum load and stress capacity for a particular site.
 
 ## Output of two tests:
  - Successfully passed both load and stress tests phase.
