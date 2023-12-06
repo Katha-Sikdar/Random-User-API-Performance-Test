@@ -13,4 +13,5 @@
 
 ## Pictorial representation of this projects output:
 
+![stress test](https://github.com/Katha-Sikdar/Random-User-API-Performance-Test/assets/82141562/68affe82-b738-4e59-85c2-341b19b88025)
 
